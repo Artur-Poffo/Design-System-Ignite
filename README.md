@@ -1,4 +1,6 @@
-# Components
+# Ignite UI
+
+## Components
 
 - [x] Text
 - [x] Heading
