@@ -1,0 +1,45 @@
+{
+  "name": "@ignite-ui/docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "storybook dev -p 6006",
+    "build": "storybook build",
+    "deploy-storybook": "storybook-to-ghpages"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@storybook/addon-essentials": "^7.0.2",
+    "@storybook/addon-interactions": "^7.0.2",
+    "@storybook/addon-links": "^7.0.2",
+    "@storybook/blocks": "^7.0.2",
+    "@storybook/builder-vite": "^7.1.0-alpha.0",
+    "@storybook/manager-api": "^7.0.2",
+    "@storybook/react": "^7.0.2",
+    "@storybook/storybook-deployer": "^2.8.16",
+    "@storybook/testing-library": "^0.0.14-next.2",
+    "@storybook/theming": "^7.0.2",
+    "@vitejs/plugin-react": "^3.1.0",
+    "babel-loader": "^8.2.5",
+    "prop-types": "^15.8.1",
+    "storybook": "^7.0.2",
+    "vite": "^4.2.1"
+  },
+  "dependencies": {
+    "@ignite-ui/eslint-config": "*",
+    "@ignite-ui/react": "*",
+    "@ignite-ui/tokens": "*",
+    "@ignite-ui/ts-config": "*",
+    "@phosphor-icons/react": "^2.0.8",
+    "@storybook/addon-a11y": "^7.0.2",
+    "@storybook/react-vite": "^7.0.2",
+    "polished": "^4.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
