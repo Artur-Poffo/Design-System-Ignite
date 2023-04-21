@@ -1,4 +1,6 @@
 import { themes } from '@storybook/theming'
+import * as jest from "jest-mock";
+window.jest = jest;
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
