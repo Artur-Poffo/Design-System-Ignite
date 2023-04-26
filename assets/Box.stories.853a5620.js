@@ -1,0 +1,2 @@
+import"./index.22f5ba33.js";import{B as r,T as o}from"./index.c4711f54.js";import{j as t}from"./jsx-runtime.a725f8ac.js";import"./iframe.6ba65d8d.js";import"./index.019f9583.js";const n={title:"Surfaces/Box",component:r,tags:["autodocs"],args:{children:t(o,{children:"Text element"})},argTypes:{children:{control:{type:null}}}},c={},p=["Primary"];export{c as Primary,p as __namedExportsOrder,n as default};
+//# sourceMappingURL=Box.stories.853a5620.js.map

@@ -1,0 +1,2 @@
+import"./index.22f5ba33.js";import{H as o}from"./index.c4711f54.js";import"./iframe.6ba65d8d.js";import"./jsx-runtime.a725f8ac.js";import"./index.019f9583.js";const e={title:"Typography/Heading",component:o,tags:["autodocs"],args:{children:"Title Heading"},argTypes:{size:{options:["sm","md","lg","2xl","4xl","5xl","6xl"],control:{type:"inline-radio"}}}},n={},m={args:{children:"H1 Version",as:"h1"}},p=["Primary","CustomTag"];export{m as CustomTag,n as Primary,p as __namedExportsOrder,e as default};
+//# sourceMappingURL=Heading.stories.181d8fc0.js.map

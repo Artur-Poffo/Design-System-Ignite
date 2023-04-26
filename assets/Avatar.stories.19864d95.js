@@ -1,0 +1,2 @@
+import"./index.22f5ba33.js";import{A as t}from"./index.c4711f54.js";import"./iframe.6ba65d8d.js";import"./jsx-runtime.a725f8ac.js";import"./index.019f9583.js";const c={title:"Data display/Avatar",component:t,tags:["autodocs"],args:{src:"https://github.com/Artur-Poffo.png",alt:"Avatar Image"},argTypes:{src:{control:{type:"text"}}}},p={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,m as WithFallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.19864d95.js.map
